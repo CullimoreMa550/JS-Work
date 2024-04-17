@@ -1,0 +1,12 @@
+:root{
+    --steel-blue:rgb(66, 66, 132);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 20px 0 0 20px;
+}
